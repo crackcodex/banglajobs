@@ -1,1 +1,31 @@
 
+[
+	{
+		"key": "banner",
+		"value": "http://localhost/banglajobs/json/55.jpg"
+	},
+	{
+		"key": "title",
+		"value": "Vacancy for<br> Public Diplomacy and Research Officer Position"
+	},
+	{
+		"key": "intro",
+		"value": "The information technology Director provides the vision and leadership for the overall designing developing and execution of all IT functions. The incumbent is responsible for overseeing the infrastructure of technical operations, tracking the technology itself as well as the IT team in order to achieve goals, meet requirements, eliminate security risks, increase user satisfaction, and maintaining operations and systems. The IT System Office of BRAC University is searching for a suitable candidate for the position of Director, IT."
+	},
+	{
+		"key": "Major Responsibilities",
+		"value": "<ul><li>Translate the University requirement into IT systems and procedures, articulating to the need of the relevant stakeholders</li><li>Lead manage and direct the IT team to support all aspects of the IT Support Service taking operational responsibility for the team</li><li>Manage, motivate, and develop all staff within the IT group. Ensure the organizational structure is appropriate for supporting BRACU’s current and future business needs</li><li>Oversee all aspects of the implementation and operation of information and functional systems for the University, including software applications, network, phone systems and end-user computers</li><li>Lead and coordinate development of the infrastructure to ensure key business strategies and processes are supported by the systems that enable growth and flexibility</li><li>Act as an effective project manager in implementing and reviewing both existing and new hardware and software</li></ul>"
+	},
+	{
+		"key": "Requirements",
+		"value": "<ul><li>At least M.Sc in Computer Science and Engineering or relevant field; working experience abroad in IT environment will be given preference</li><li>Minimum 15+ years of total IT experience including computer operations management, multiple roles in systems implementation, supervision of technical personnel, architecture, security/compliance, business-wide strategic planning and budgetary responsibility including 7 years of experience in leadership level in a reputed Organization</li><li>Hands-on experience with commercial ERP solutions like SAP, Oracle and Microsoft Dynamics</li><li>Knowledge of both national and international IT policies</li><li>Thorough understanding of and experience with the full Software Development Life Cycle</li><li>Highly knowledgeable in enterprise level Cloud technologies</li><li>Knowledge of latest Software development methodologies and supporting toolchain</li><li>Excellent organizational and leadership skills</li></ul>"
+	},
+	{
+		"key": "Application Procedure:",
+		"value": "Interested candidates meeting the above requirements should apply online through www.bracu.ac.bd/about/get-involved by 8 December 2018. Any attempt to unethically influence the selection process will disqualify the candidate’s application."
+	},
+	{
+		"key": "address",
+		"value": "BRAC University<br>66 Mohakhali, Dhaka 1212, Bangladesh"
+	}
+]
